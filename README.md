@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<a href="https:// https://monicabirsan.github.io/restaurant-js-app//>Visit site</a>
+<a href="https://monicabirsan.github.io/restaurant-js-app//">Visit site</a>
 
 
 
